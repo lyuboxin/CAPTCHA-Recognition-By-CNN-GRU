@@ -1,0 +1,7 @@
+# file
+*.pyc
+.DS_Store
+
+# dir
+.vscode/
+/CAPTCHA_pic/*
